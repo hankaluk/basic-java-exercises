@@ -21,7 +21,5 @@ public class A2AvgDailyTemp {
 
         avg = (temp6 + temp12 + temp18) / 3.0;
         System.out.printf("The average daily temperature is %.2f°C.", avg);
-
     }
-
 }

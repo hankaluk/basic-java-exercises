@@ -1,6 +1,6 @@
 package a.verybasic.exercises;
 
-//Enter the speed in m/s unit and convert to km/h unit.
+//Enter the speed in the m/s unit and convert to the km/h unit.
 
 import java.util.Scanner;
 

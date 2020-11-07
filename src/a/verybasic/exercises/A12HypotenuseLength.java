@@ -1,7 +1,7 @@
 package a.verybasic.exercises;
 
 //Enter the lengths of legs of a right triangle. Using Pythagorean theorem, calculate the length of the hypotenuse.
-//Check the result while using the length of legs 3 and 4. The result should be 5.
+//Check the result while using the lengths of legs 3 and 4. The result should be 5.
 
 import java.util.Scanner;
 

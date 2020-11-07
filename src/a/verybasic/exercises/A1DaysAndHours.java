@@ -12,12 +12,10 @@ public class A1DaysAndHours {
         double day, hour;
         final int HOURS_PER_DAY = 24;
 
-        System.out.println("Enter days: ");
+        System.out.println("Enter days:");
         day = scanner.nextDouble();
-        System.out.println("Enter hours: ");
+        System.out.println("Enter hours:");
         hour = scanner.nextDouble();
         System.out.printf("The result is %.2f hours.", day * (double)HOURS_PER_DAY + hour);
-
     }
-
 }
